@@ -1,4 +1,4 @@
-# OpenRA
+# OpenRA - Community Support
 
 A Libre/Free Real Time Strategy game engine supporting early Westwood classics.
 
@@ -10,7 +10,9 @@ Please read the [FAQ](https://github.com/OpenRA/OpenRA/wiki/FAQ) in our [Wiki](h
 
 Join the [Forum](https://forum.openra.net/) for discussion.
 
-## Get Started
+## Get Started with OpenRA to TAKX
+
+![Alt text](Images/PassionPic.png "Passion")
 
 1. Extract OpenRA_For_TAKX-main (Works the best on TAKX 5.5)
 2. Open OpenRA_For_TAKX-main till you see OpenRA contents  (.editorconfig, .gitignore, etc)
