@@ -1,4 +1,4 @@
-# OpenRA
+# OpenRA - Community Support
 
 A Libre/Free Real Time Strategy game engine supporting early Westwood classics.
 
@@ -9,6 +9,24 @@ A Libre/Free Real Time Strategy game engine supporting early Westwood classics.
 Please read the [FAQ](https://github.com/OpenRA/OpenRA/wiki/FAQ) in our [Wiki](https://github.com/OpenRA/OpenRA/wiki) and report problems at [https://github.com/OpenRA/OpenRA/issues](https://github.com/OpenRA/OpenRA/issues).
 
 Join the [Forum](https://forum.openra.net/) for discussion.
+
+## Get Started with OpenRA to TAKX
+
+![Alt text](Images/PassionPic.png "Passion")
+
+1. Extract OpenRA_For_TAKX-main (Works the best on TAKX 5.5)
+2. Open OpenRA_For_TAKX-main till you see OpenRA contents  (.editorconfig, .gitignore, etc)
+3. Shift+RightClick in the window and click “Open PowerShell Window here”. A powershell window will open.
+4. Copy, paste, execute in Powershell -> cmd /c launch-game.cmd Game.Mod=ra
+5. Follow Quick install then close the program, Follow the prompts, next, next, next (everything is set up for default). Close OpenRA after the install is complete.
+6. Copy the “4Ponds.oramap” and Paste -> C:\Users\FirstnameLastname\AppData\Roaming\OpenRA\maps\ra\{DEV_VERSION}
+7. Redo steps 2 -4 then continue with step 8
+8. Click SinglePlayer -> Skirmish - Change Map -> Custom Maps (4 Ponds) -> ok
+
+OpenRA is set for localhost CoT messaging. Open TAKX or WinTAKX and you will automactically see CoT Data populate TAK. 
+
+Note: TAKX was tested for this project, WinTAK may show different results.
+
 
 ## Play
 
@@ -55,3 +73,4 @@ available to you under the terms of the GNU General Public License
 as published by the Free Software Foundation, either version 3 of
 the License, or (at your option) any later version. For more
 information, see [COPYING](https://github.com/OpenRA/OpenRA/blob/bleed/COPYING).
+

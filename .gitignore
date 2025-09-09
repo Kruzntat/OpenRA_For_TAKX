@@ -1,6 +1,6 @@
 # Visual Studio
 Release
-bin
+#bin
 obj
 *.ncb
 *.vcproj*
