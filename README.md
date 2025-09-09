@@ -10,7 +10,7 @@ Please read the [FAQ](https://github.com/OpenRA/OpenRA/wiki/FAQ) in our [Wiki](h
 
 Join the [Forum](https://forum.openra.net/) for discussion.
 
-## Get Started with OpenRA to TAKX
+## Get Started with OpenRA to TAKX 
 
 ![Alt text](Images/PassionPic.png "Passion")
 
@@ -19,13 +19,13 @@ Join the [Forum](https://forum.openra.net/) for discussion.
 3. Shift+RightClick in the window and click “Open PowerShell Window here”. A powershell window will open.
 4. Copy, paste, execute in Powershell -> cmd /c launch-game.cmd Game.Mod=ra
 5. Follow Quick install then close the program, Follow the prompts, next, next, next (everything is set up for default). Close OpenRA after the install is complete.
-6. Copy the “4Ponds.oramap” and Paste -> C:\Users\FirstnameLastname\AppData\Roaming\OpenRA\maps\ra\{DEV_VERSION}
+6. Copy the “4Ponds.oramap” from the GeoMaps folderand Paste it here -> C:\Users\FirstnameLastname\AppData\Roaming\OpenRA\maps\ra\{DEV_VERSION}
 7. Redo steps 2 -4 then continue with step 8
 8. Click SinglePlayer -> Skirmish - Change Map -> Custom Maps (4 Ponds) -> ok
 
 OpenRA is set for localhost CoT messaging. Open TAKX or WinTAKX and you will automactically see CoT Data populate TAK. 
 
-Note: TAKX was tested for this project, WinTAK may show different results.
+Note: TAKX was tested for this project, WinTAK and ATAK may show different results.
 
 
 ## Play
