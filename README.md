@@ -25,7 +25,7 @@ Join the [Forum](https://forum.openra.net/) for discussion.
 
 OpenRA is set for localhost CoT messaging. Open TAKX or WinTAKX and you will automactically see CoT Data populate TAK. 
 
-Note: TAKX was tested for this project, WinTAK may show different results.
+Note: TAKX was tested for this project, WinTAK and ATAK may show different results.
 
 
 ## Play
