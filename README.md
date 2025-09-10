@@ -6,27 +6,23 @@ A Libre/Free Real Time Strategy game engine supporting early Westwood classics.
 * Chat: [#openra on Libera](ircs://irc.libera.chat:6697/openra) ([web](https://web.libera.chat/#openra)) or [Discord](https://discord.openra.net) ![Discord Badge](https://discordapp.com/api/guilds/153649279762694144/widget.png)
 * Repository: [https://github.com/OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) ![Continuous Integration](https://github.com/OpenRA/OpenRA/workflows/Continuous%20Integration/badge.svg)
 
-Please read the [FAQ](https://github.com/OpenRA/OpenRA/wiki/FAQ) in our [Wiki](https://github.com/OpenRA/OpenRA/wiki) and report problems at [https://github.com/OpenRA/OpenRA/issues](https://github.com/OpenRA/OpenRA/issues).
-
-Join the [Forum](https://forum.openra.net/) for discussion.
-
-## Get Started with OpenRA to TAKX 
+## Get Started with OpenRA to TAKX with Step-by-Step Instructions.
 
 ![Alt text](Images/PassionPic.png "Passion")
 
-1. Extract OpenRA_For_TAKX-main (Works the best on TAKX 5.5)
-2. Open OpenRA_For_TAKX-main till you see OpenRA contents  (.editorconfig, .gitignore, etc)
-3. Shift+RightClick in the window and click “Open PowerShell Window here”. A powershell window will open.
+1. Extract OpenRA_For_TAKX-main (Tested on TAKX 5.5)
+2. Open OpenRA_For_TAKX-main until you see OpenRA contents  (.editorconfig, .gitignore, etc)
+3. Shift+Right-Click in the window and click “Open PowerShell Window here”. A powershell window will open.
 4. Copy, paste, execute in Powershell -> cmd /c launch-game.cmd Game.Mod=ra
-5. Follow Quick install then close the program, Follow the prompts, next, next, next (everything is set up for default). Close OpenRA after the install is complete.
-6. Copy the “4Ponds.oramap” from the GeoMaps folderand Paste it here -> C:\Users\FirstnameLastname\AppData\Roaming\OpenRA\maps\ra\{DEV_VERSION}
+5. Click "Quick install," Follow the prompts, next, next, next (everything is set up for default). Close OpenRA after the install is complete. Full install indcates that you have Single and Multiplayer avalible as a selction.
+6. Copy the “4Ponds.oramap” from the "GeoMaps" folder and Paste it here -> C:\Users\FirstnameLastname\AppData\Roaming\OpenRA\maps\ra\{DEV_VERSION}
+"AppData" is hidden by default. To unhide it, right-click on the folder and select "Properties". In the "Attributes" section, uncheck "Hidden" and click "Apply".
 7. Redo steps 2 -4 then continue with step 8
 8. Click SinglePlayer -> Skirmish - Change Map -> Custom Maps (4 Ponds) -> ok
 
-OpenRA is set for localhost CoT messaging. Open TAKX or WinTAKX and you will automactically see CoT Data populate TAK. 
+OpenRA is set for localhost CoT messaging. Open TAKX or WinTAKX on the same computer as OpenRA and you will automatically see CoT Data populate. 
 
 Note: TAKX was tested for this project, WinTAK and ATAK may show different results.
-
 
 ## Play
 
