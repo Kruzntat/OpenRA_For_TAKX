@@ -45,6 +45,10 @@ update.log
 /TestResult.xml
 /lib/
 
+# Test coverage files
+.msCoverageSourceRootsMapping_*
+
+
 # Support directory
 /Support
 
