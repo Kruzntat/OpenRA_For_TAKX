@@ -1,6 +1,6 @@
 # Visual Studio
 Release
-#bin
+# bin
 obj
 *.ncb
 *.vcproj*
@@ -51,6 +51,8 @@ update.log
 
 # Support directory
 /Support
+/ProjectPlan
+/tools
 
 # IntelliJ files
 .idea
