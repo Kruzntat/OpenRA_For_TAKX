@@ -10,6 +10,8 @@ A Libre/Free Real Time Strategy game engine supporting early Westwood classics.
 
 ![Alt text](Images/PassionPic.png "Passion")
 
+<mark>DotNet is required please downlaod and install before step 1:</mark> https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.414-windows-x64-installer
+
 1. Extract OpenRA_For_TAKX-main (Tested on TAKX 5.5)
 2. Open OpenRA_For_TAKX-main until you see OpenRA contents  (.editorconfig, .gitignore, etc)
 3. Shift+Right-Click in the window and click “Open PowerShell Window here”. A powershell window will open.
